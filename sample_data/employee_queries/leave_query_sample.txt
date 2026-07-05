@@ -1,0 +1,7 @@
+Employee Query:
+I am currently in probation. Can I take paid leave next week for a family function?
+Please confirm whether probation employees are eligible for paid leave.
+
+Employee Name: Rahul Shah
+Department: Sales
+Date: 2025-05-18

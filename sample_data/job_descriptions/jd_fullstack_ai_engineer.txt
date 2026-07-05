@@ -1,0 +1,27 @@
+Job Description: Full Stack AI Engineer
+
+Role Overview
+We are hiring a Full Stack AI Engineer to build AI-powered business applications, internal automation platforms, document intelligence tools, workflow dashboards, and RAG-based product features. The candidate should be comfortable working across frontend, backend, databases, APIs, and AI-assisted workflows.
+
+Responsibilities
+Build responsive frontend interfaces using React, Next.js, JavaScript or TypeScript, and Tailwind CSS.
+Develop backend APIs using Python, FastAPI, Node.js, or Express.js.
+Design database schemas and work with SQL, PostgreSQL, MongoDB, or SQLite.
+Implement document upload, parsing, search, text extraction, and structured extraction workflows.
+Build AI features such as RAG chat, JD matching, summarization, classification, prompt workflows, and agentic automation.
+Create dashboards, charts, tables, and business insights from uploaded data.
+Integrate external APIs and maintain clean REST API contracts.
+Use Git and GitHub for version control, debugging, and collaboration.
+Collaborate with product and operations teams to convert business requirements into working software.
+
+Required Skills
+React, Next.js, JavaScript, Python, FastAPI, Node.js, SQL, MongoDB, REST API, Git, GitHub, Tailwind CSS, Pandas, AI Agents, RAG, LangChain, Prompt Engineering, Document Processing, Dashboard Development, Workflow Automation, Data Analysis, API Design
+
+Preferred Skills
+OpenAI API, Vector Search, SQLite, PostgreSQL, Power BI, Docker, Firebase, scikit-learn, Natural Language Interfaces, Chart Generation, Resume Parsing, JD Matching
+
+Ideal Candidate
+Strong project portfolio showing full-stack applications, AI automation, document workflows, dashboards, business tools, and practical problem solving.
+
+Demo Fit Expectation
+Jayvin Parmar should appear as the strongest match because his resume directly covers Full Stack AI, RAG, FastAPI, document intelligence, dashboards, and HRFlow-style workflow automation. Varad Chavan should appear as a strong but slightly lower match due to broad full-stack skills and lighter AI/RAG depth.

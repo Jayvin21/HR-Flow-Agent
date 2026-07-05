@@ -1,0 +1,44 @@
+Jayvin Parmar
+Email: jayvin.parmar@example.com
+Phone: +91 98765 43210
+Location: Mumbai, India
+LinkedIn: linkedin.com/in/jayvin-parmar-j21
+GitHub: github.com/Jayvin21
+
+Profile Summary
+Full-stack AI developer with strong hands-on experience in React, Next.js, FastAPI, Python, document intelligence, RAG systems, data dashboards, and agentic workflow automation. Built multiple portfolio-grade business applications involving document uploads, resume parsing, JD matching, communication queues, dashboard command centers, and AI-assisted analysis. Strong fit for Full Stack AI Engineer roles requiring frontend, backend, databases, API contracts, AI automation, and practical product building.
+
+Technical Skills
+Python, JavaScript, TypeScript Basics, React, Next.js, Node.js, Express.js, FastAPI, Flask, REST API, API Design, MongoDB, SQL, SQLite, PostgreSQL Basics, Pandas, NumPy, scikit-learn, Tailwind CSS, Firebase, Git, GitHub, Authentication, CRUD Workflows, Dashboard Development, Chart Generation, Data Analysis, Excel, Power BI Basics, Document Processing, Resume Parsing, JD Matching, RAG, LangChain, Vector Search Basics, AI Agents, Prompt Engineering, Workflow Automation, Natural Language Interfaces, PDF/Text Extraction, Business Operations Systems
+
+Projects
+HRFlow RAG AI
+Built an AI-powered HR operations platform with workspace-based document uploads, resume parsing, candidate profiles, JD matching, attendance issue detection, communication queues, email and letter generators, interview pack generation, and dashboard command center. Implemented React/Next.js frontend screens, FastAPI backend routes, SQLite models, document parsing, status workflows, and demo-ready HR automation flows.
+
+AskSheets AI
+Built a CSV and spreadsheet question-answering app where users upload datasets and ask questions in natural language. Implemented backend data parsing with Python and FastAPI, table outputs, chart generation, summary insights, and query-driven analysis.
+
+AuditPal
+Built an audit workflow assistant for document review, checklist tracking, issue categorization, follow-up automation, and reporting workflows.
+
+HR Flow Agent
+Created an HR automation prototype using document parsing, candidate tracking, communication task generation, and structured workflow execution.
+
+Experience and Achievements
+Microsoft Learn Student Club - Technical Member
+Worked on student tech initiatives, project demonstrations, peer learning sessions, and developer community activities.
+
+Built multiple full-stack and AI-assisted projects using React, Next.js, FastAPI, Python, SQLite, API integration, dashboards, and workflow automation.
+
+Participated in academic and independent software development projects involving dashboards, APIs, document intelligence, automation, and applied AI systems.
+
+Education
+B.E. Computer Engineering
+Vidyavardhini's College of Engineering and Technology, University of Mumbai
+CGPA: 8+
+
+Certifications
+Python Programming
+Web Development
+Data Analysis Basics
+AI Tools and Prompt Engineering

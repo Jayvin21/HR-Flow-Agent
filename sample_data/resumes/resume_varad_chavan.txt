@@ -1,0 +1,40 @@
+Varad Chavan
+Email: varad.chavan@example.com
+Phone: +91 98765 43211
+Location: Mumbai, India
+GitHub: github.com/varadchavan
+
+Profile Summary
+Full-stack developer focused on scalable web applications, internal business tools, API integration, dashboards, and AI-enabled prototypes. Comfortable across frontend, backend, database design, and lightweight machine learning workflows. Has strong overlap with Full Stack AI Engineer requirements, especially React, Next.js, Node.js, FastAPI, SQL, dashboards, and workflow automation, with moderate exposure to RAG and document intelligence.
+
+Technical Skills
+JavaScript, TypeScript, React, Next.js, Node.js, Express.js, Python, FastAPI, REST API, API Integration, PostgreSQL, MongoDB, SQL, SQLite Basics, Tailwind CSS, Redux, Git, GitHub, Docker Basics, Firebase, Pandas, NumPy, Excel, Dashboard Development, Chart Visualizations, Authentication, CRUD Workflows, OpenAI API Basics, RAG Basics, Vector Search Basics, LangChain Basics, Ticket Classification, Workflow Automation, Data Cleaning
+
+Projects
+AI Helpdesk Assistant
+Developed a support-ticket assistant that classifies tickets, suggests response drafts, and routes issues based on priority and department. Used React, backend APIs, classification logic, and simple AI-assisted response generation.
+
+Business Analytics Dashboard
+Built a dashboard for sales, revenue, and operational KPIs using React, FastAPI, SQL, and chart visualizations. Implemented filters, tables, summary cards, and role-based access.
+
+Resume Matcher
+Created a resume-to-job-description matching tool using keyword extraction, skill scoring, candidate ranking logic, and structured match explanations.
+
+Inventory Automation System
+Built an internal inventory tracker with role-based views, CRUD workflows, CSV import, and automated low-stock alerts.
+
+Experience and Achievements
+Full Stack Development Intern - CodeNova Labs
+Worked on React dashboards, backend APIs, database queries, bug fixing, and feature implementation for internal tools.
+
+Built AI-assisted prototypes for document search, candidate filtering, workflow automation, and dashboard reporting.
+
+Education
+B.Tech Computer Science and Engineering
+Mumbai University
+CGPA: 8.2
+
+Certifications
+Full Stack Web Development
+SQL for Data Analysis
+AI Tools for Developers

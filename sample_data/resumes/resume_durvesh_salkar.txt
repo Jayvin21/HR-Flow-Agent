@@ -1,0 +1,41 @@
+Durvesh Salkar
+Email: durvesh.salkar@example.com
+Phone: +91 98765 43212
+Location: Mumbai, India
+
+Profile Summary
+Commerce and finance-oriented candidate with interest in accounting operations, CA articleship, tax compliance, financial reporting, documentation, and management support. Strong foundation in accounting principles, Excel-based analysis, GST/TDS preparation, voucher entry, bank reconciliation, and business coordination. Good match for accounting and finance operations roles, with moderate overlap for finance automation and management reporting roles.
+
+Technical Skills
+Accounting, Financial Accounting, Tally ERP, Tally Prime Basics, GST, TDS, Income Tax Basics, Bank Reconciliation, Journal Entries, Ledger Scrutiny, Voucher Entry, Invoice Verification, Accounts Payable, Accounts Receivable, Purchase Register, Sales Register, Input Tax Credit Checking, Expense Tracking, Vendor Payment Tracking, Excel, Advanced Excel, Pivot Tables, VLOOKUP, Basic XLOOKUP, MIS Reporting, Ratio Analysis, Working Capital Analysis, PowerPoint, Documentation, Client File Organization, Compliance Support, Finance Operations
+
+Projects
+GST Filing Practice Case
+Prepared a practice GST return workflow including purchase register review, sales register review, input tax credit checking, reconciliation, and supporting document organization.
+
+Financial Statement Analysis
+Analyzed balance sheet and profit and loss statements for a sample company and prepared ratio analysis covering liquidity, profitability, working capital, and expense trends.
+
+Expense Management Tracker
+Created an Excel tracker for monthly expenses, vendor payments, pending bills, category-wise spending summaries, and basic variance notes.
+
+Accounts Reconciliation File
+Prepared a reconciliation file comparing bank statements, ledger entries, payment dates, and pending adjustments.
+
+Experience and Achievements
+Accounts Assistant Intern - Salkar & Associates
+Assisted with voucher entry, GST data preparation, bank reconciliation, invoice verification, and client document organization.
+
+Helped prepare monthly MIS summaries and maintained accounting records in Excel and Tally.
+
+Supported accounts payable and receivable tracking, basic ledger scrutiny, and tax document collation.
+
+Education
+Bachelor of Commerce
+University of Mumbai
+Currently pursuing CA Intermediate
+
+Certifications
+Tally ERP Basics
+GST Fundamentals
+Advanced Excel for Accounting

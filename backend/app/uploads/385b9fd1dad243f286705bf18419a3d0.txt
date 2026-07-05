@@ -1,0 +1,16 @@
+Frontend Developer Job Description
+
+Required Skills:
+React, Next.js, JavaScript, Tailwind CSS, REST API integration, Git.
+
+Preferred Skills:
+TypeScript, dashboard UI, charting libraries, authentication, SaaS product experience.
+
+Responsibilities:
+Build clean and responsive frontend interfaces.
+Integrate backend APIs.
+Create reusable components.
+Collaborate with backend developers and product teams.
+
+Experience:
+0-2 years accepted for internship or junior developer role.

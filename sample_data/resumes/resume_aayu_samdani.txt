@@ -1,0 +1,47 @@
+Aayu Samdani
+Email: aayu.samdani@example.com
+Phone: +91 98765 43213
+Location: Mumbai, India
+
+Profile Summary
+Finance, management, and automation-oriented candidate with strong alignment to finance operations, business intelligence, audit support, taxation, compliance documentation, MIS reporting, and management dashboards. Skilled in Excel, Advanced Excel, Tally Prime, GST/TDS workflows, budget tracking, variance analysis, internal controls, vendor coordination, and executive reporting. Particularly strong for Finance Operations Analyst, Management Reporting Analyst, or Finance Automation Associate roles that combine accounting discipline with reporting and process improvement.
+
+Technical Skills
+Financial Accounting, Management Accounting, Cost Accounting, GST, TDS, Income Tax Basics, Audit Documentation, Internal Controls, Bank Reconciliation, Vendor Coordination, Accounts Payable, Accounts Receivable, Invoice Tracking, Expense Classification, Budget Tracking, Budget vs Actual Analysis, Variance Analysis, MIS Reporting, Management Dashboards, Finance Operations, Compliance Calendar, Statutory Due Dates, Tally Prime, Tally ERP Basics, Excel, Advanced Excel, Pivot Tables, VLOOKUP, XLOOKUP, INDEX MATCH, Conditional Formatting, Data Validation, Power Query Basics, PowerPoint, Business Communication, Documentation, Process Improvement, Stakeholder Coordination, Python, JavaScript, TypeScript Basics, React, Next.js, Node.js, Express.js, FastAPI, Flask, REST API, API Design, MongoDB, SQL, SQLite, PostgreSQL Basics, Pandas, NumPy, scikit-learn, Tailwind CSS, Firebase, Git, GitHub
+
+Projects
+Finance Operations Dashboard
+Created an Excel-based dashboard for payment tracking, vendor aging, expense categories, budget utilization, and monthly MIS summaries. Used pivot tables, lookups, conditional formatting, and structured reporting views for management review.
+
+Internal Audit Checklist
+Prepared an audit checklist for purchase, sales, expenses, approvals, payment controls, vendor documentation, and internal control evidence.
+
+Budget vs Actual Report
+Created an Excel-based report comparing planned expenses against actual spending with variance analysis, department-level summaries, and management notes.
+
+Tax Compliance Calendar
+Designed a compliance calendar for GST, TDS, advance tax, return filing, statutory due dates, responsible owners, and follow-up status.
+
+Vendor Payment Tracker
+Built a tracker for invoices received, due dates, approval status, payment status, pending documents, and follow-up notes.
+
+Experience and Achievements
+Finance and Operations Intern - Meridian Business Services
+Supported invoice tracking, expense classification, vendor follow-ups, data entry, bank reconciliation, and MIS preparation.
+
+Assisted the management team in preparing weekly finance summaries, pending payment reports, compliance reminders, and budget tracking sheets.
+
+Helped organize audit files, supporting documents, approval records, and reconciliation notes for review.
+
+Education
+Bachelor of Management Studies
+University of Mumbai
+CA Foundation Cleared
+Currently preparing for CA Intermediate
+
+Certifications
+Advanced Excel
+Tally Prime
+GST and Taxation Basics
+Business Communication
+MIS Reporting Basics

@@ -1,0 +1,22 @@
+Arjun Mehta
+Email: arjun.mehta@email.com
+Phone: +91 9876543210
+Role: Frontend Developer
+
+Summary:
+Frontend developer with 2 years of experience building React dashboards,
+admin panels, and SaaS interfaces.
+
+Skills:
+React, Next.js, JavaScript, TypeScript, Tailwind CSS, REST APIs, Git, MongoDB.
+
+Projects:
+1. HR Dashboard - Built employee analytics dashboard using React and Tailwind.
+2. E-commerce Admin Panel - Implemented product, order, and inventory modules.
+
+Experience:
+Frontend Developer Intern at WebCraft Labs.
+Worked on reusable components, API integration, form validation, and dashboard UI.
+
+Education:
+B.E. Computer Engineering.

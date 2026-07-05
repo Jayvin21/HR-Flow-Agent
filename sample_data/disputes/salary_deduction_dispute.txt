@@ -1,0 +1,15 @@
+Dispute Case:
+Employee claims salary deduction was unfair because leave was already informed to manager.
+
+Employee Name: Meera Joshi
+Issue Type: Attendance Deduction
+Employee Claim:
+I had informed my manager about my absence on May 12, 2025, but my salary was deducted.
+
+HR Notes:
+Attendance system shows absent.
+No approved leave application found in HR portal.
+Manager confirmation pending.
+
+Required Action:
+Review attendance policy and draft HR response.
